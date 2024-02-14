@@ -1,20 +1,21 @@
-# Module_8_Challenge
+### Module_8_Challenge
 
-## Dataset Overview
-The dataset encompassed Google search trend data and Mercado Libre's stock prices spanning approximately five years. Our objective was to delve into these datasets to uncover underlying trends and patterns.
+#### Dataset Overview
+The dataset consisted of Google search trend data and Mercado Libre's stock prices spanning approximately five years. The objective was to examine these datasets to uncover underlying trends and patterns.
 
-### Data Analysis:
+##### Data Analysis:
 
-#### Our comprehensive analysis involved:
+###### The comprehensive analysis involved:
 
-Examining Google search activity for Mercado Libre to identify peak and off-peak days, as well as hourly traffic patterns.
-Conducting an in-depth exploration of stock price trends across various time periods to understand their correlation and dependency on the company's performance.
+- Examining Google search activity for Mercado Libre to identify peak and off-peak days, as well as hourly traffic patterns.
+- Conducting an in-depth exploration of stock price trends across various time periods to understand their correlation and dependency on the company's performance.
 
-### Key Findings:
+##### Key Findings:
 
-Identified distinct patterns in Google search activity, revealing peak days, off-peak periods, and hourly traffic fluctuations.
-Analyzed stock price trends to discern correlations with company performance and external factors.
+- Identified distinct patterns in Google search activity, revealing peak days, off-peak periods, and hourly traffic fluctuations.
+- Analyzed stock price trends to discern correlations with company performance and external factors.
 
-### Predictions:
+##### Predictions:
 
-Leveraging the insights gleaned from our data analysis, we employed the Prophet1 module for predictive modeling. Our goal was to forecast trends for the next 80 days based on the search data. These forecasts, underpinned by robust data analysis, provide valuable insights for strategic decision-making, guiding future actions and initiatives.
+Drawing upon the insights derived from my data analysis, I utilized the Prophet module for predictive modeling. The objective was to forecast trends for the next 80 days based on the search data. These forecasts, supported by in-depth data analysis, provide valuable insights for strategic decision-making, guiding future actions and initiatives.
+
