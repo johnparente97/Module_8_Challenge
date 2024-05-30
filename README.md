@@ -1,5 +1,3 @@
-### Module_8_Challenge
-
 #### Dataset Overview
 The dataset consisted of and Mercado Libre's Google search trend data and Mercado Libre's stock prices spanning approx. five years. The objective was to examine these datasets to uncover underlying trends and patterns.
 
